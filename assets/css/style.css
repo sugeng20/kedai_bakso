@@ -1,0 +1,25 @@
+.navbar,
+footer {
+    background: radial-gradient(circle at top left, #0448e7, #48cc14);
+}
+
+.navbar,
+.card,
+footer {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.c1 {
+    font-size: 100px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+
+.carousel-caption {
+    padding-bottom: 200px;
+}
+
+.card {
+    font-size: 14px;
+}
